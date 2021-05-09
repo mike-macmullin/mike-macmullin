@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mike-macmullin
 - 👀 I’m interested in ... Oceanagraphic software
-- 🌱 I’m currently learning ... web technologies
-- 💞️ I’m looking to collaborate on ... 
+- 🌱 I’m currently learning ... Web technologies
 - 📫 How to reach me ... mike.macmullin@virtualmarine.ca
 
 <!---
